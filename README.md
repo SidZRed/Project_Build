@@ -1,3 +1,3 @@
-# Makefiles
+# Build Systems
 
-A personal repo to test and create makefles in C and understand how they work.
+Testing how build systems such as `Makefiles` work in automating various processes related to linking and execution of programs.
